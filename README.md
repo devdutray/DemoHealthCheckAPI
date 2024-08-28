@@ -1,0 +1,1 @@
+HealthCheckAPI POC using Microsoft.Extensions.Diagnostics.Healthchecks
